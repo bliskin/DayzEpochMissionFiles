@@ -33,7 +33,7 @@ newspawnEpoch104 //Spawn Selection / Donator Loadouts ---NOT IN USE--- 100% done
 ### Configuration
 Just do it!
 
-### Credits go some very special people on epochmod.com and opendayz.net
+### Credit go to some very special people on epochmod.com and opendayz.net
 
 http://epochmod.com/forum/index.php?/topic/7501-release-epoch-admin-tools/
 http://epochmod.com/forum/index.php?/topic/6111-release-jaem-just-another-evac-chopper-mod-v13-updated-02202014/
