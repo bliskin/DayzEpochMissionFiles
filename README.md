@@ -16,6 +16,10 @@ This is custom DayZ Epoch script pack for Chernarus only.
 - Vehicle Key Changer - For making Masterkey - V 1.3 (Updated 02/20/2014)  
 - Build Snapping - Extended v1.6 (Updated 02/20/2014)  
 - Ghost of Chernarus Epoch-Specific Map Pack
+- Adding higher end currency to traders. v1.1 //Ruby
+- IED construction Script for Epoch Version 1.0​
+- Blur Gaming Voice/Action Menu V1.0
+- Vampire's Russian Roulette
 
 ### Work in Progress
 
@@ -51,6 +55,10 @@ http://opendayz.net/threads/epoch-safe-zone-commander-god-anti-backpack-stealing
 http://opendayz.net/threads/epoch-animated-heli-crashes.15051/
 http://opendayz.net/threads/animated-c130-crashes-eventually-dropping-carepackages-at-way-points.12341/
 http://opendayz.net/threads/release-name-tags-2-0-skaronator-version.14610/
+http://epochmod.com/forum/index.php?/topic/5967-release-adding-higher-end-currency-to-traders-v11-working/
+http://opendayz.net/threads/ied-construction.17875/
+http://opendayz.net/threads/blur-gaming-voice-action-menu-v1-0.12529/
+http://opendayz.net/threads/release-vampires-russian-roulette.15196/
 
 ### Special admiration and thanks for daeks D-Network Dayz Epoch Server Pack 1.0.4.2
 https://github.com/daeks/Dayz-DNetwork
