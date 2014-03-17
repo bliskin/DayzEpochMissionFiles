@@ -20,10 +20,12 @@ This is custom DayZ Epoch script pack for Chernarus only.
 - IED construction Script for Epoch Version 1.0​
 - Blur Gaming Voice/Action Menu V1.0
 - Vampire's Russian Roulette
+- Spawn Selection and Donator Loadouts
 
 ### Work in Progress
 
-newspawnEpoch104 //Spawn Selection / Donator Loadouts ---NOT IN USE--- 100% done but still not working  
+Disabled roaming SARGE AI and annoying helis for better FPS
+Battleye logs are bloated from all spawned items :D
  
 ### Installation //easy
 
