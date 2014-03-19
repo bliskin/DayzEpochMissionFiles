@@ -1,4 +1,4 @@
-## BLISKIN Dayz Epoch Server Script Pack 1.0.4.2a
+## BLISKIN Dayz Epoch Script Pack for 1.0.4.2a
 
 This is custom DayZ Epoch script pack for Chernarus only.
 
@@ -6,10 +6,9 @@ This is custom DayZ Epoch script pack for Chernarus only.
 
 - R3F_ARTY_AND_LOG Tow/Lift with modified vehicle/heli list
 - EMS-0.3 //Mission System
-- DZMS-DayZMissionSystem //Missions System
-- GOC //Ghosts of Chernarus
-- SargeAI //NPC Take Over the World
-- DeployableBike //Wow such 
+- GOC //Ghosts of Chernarus Map Addons
+- SargeAI
+- DeployableBike 
 - Vehicle Service Point (Refuel, Repair, Rearm) [Script]
 - Epoch Admin Tools  
 - JAEM - Just another Evac-Chopper Mod v1.3 (Updated 02/20/2014)
@@ -21,10 +20,30 @@ This is custom DayZ Epoch script pack for Chernarus only.
 - Blur Gaming Voice/Action Menu V1.0
 - Vampire's Russian Roulette
 - Spawn Selection and Donator Loadouts
+- Animated Heli, AN2 Crash
+- Name Tags
+- Krixes Selfbloodbag
+- Salvage modification to remove every part
+- NPC (Sarge AI) with modified weapons
+- Side Missions (EMS) with reduced loot
+- Custom debugmonitor with mission display
+- Several Map Updates
+- Churches replaced to be accessable
+- New Traders & Changes
+- Traders Safezone
+- Wrecks with Loot
+- Indestructible Bases
+- Extra Vehicles (Merlin, M113Ambul_UN_EP1, BTR40_TK_GUE_EP1 , M1133_MEV_EP1, Bell Heli)
+- No Plot
+- No Tow on locked vehicles
+- Sarge AI invisible fix
+- No Salvage on locked vehicles
+- No Damage on locked vehicles
 
 ### Work in Progress
 
 Disabled roaming SARGE AI and annoying helis for better FPS
+Removed Zone Alpha for FPS
 Battleye logs are bloated from all spawned items :D
  
 ### Installation //easy
